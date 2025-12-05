@@ -1,6 +1,6 @@
 # 💫 About Me
 
-🧑‍🏫 **I am a research support staff member and associate lecturer at the Facultat d'Informàtica de Barcelona**, where I teach Programming I, Entrepreneurship and Innovation, and Engineering Project.
+🧑‍🏫 **I am a research support staff member at CITCEA and associate lecturer at the Facultat d'Informàtica de Barcelona**, where I teach Programming I, Entrepreneurship and Innovation, and Engineering Project.
 
 🧑‍💻 **I'm currently working on**  
 Large scale power system simulation and optimization, digital twins, and N2 contingency analysis using VeraGrid, HPC, and modern electrical networks.
