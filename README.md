@@ -1,10 +1,21 @@
-# 💫 About Me:
-🧑‍🏫 I am a research support staff member and associate lecturer at the Facultat d'Informàtica de Barcelona, where I teach Programming I, Entrepreneurship and Innovation, and Engineering Project.<br><br>
-🧑‍💻 I'm currently working on<br><br>Large scale power system simulation and optimization, digital twins, and N2 contingency analysis using VeraGrid, HPC, and modern electrical networks.<br><br>
-🤝 I'm looking to collaborate on<br><br>Research projects involving smart grids, distributed computing, mathematical optimization, and AI applications in electrical or computer engineering.<br><br>
-🌱 I'm currently learning<br><br>Advanced stability analysis methods for power systems, parallel simulation strategies, generic JSON standards for electrical network modeling, and interactive web visualization.<br><br>
-💬 Ask me about<br><br>Algorithms, programming, HPC, digital twins, contingency analysis, Python, optimization, and web-based data visualization. Also about my experience as a university assistant lecturer in computer engineering.<br><br>
-⚡ Fun fact<br><br>I'm co-developing a distributed computing cluster that uses idle machines to run power system simulations in parallel. And I love road trips, camping, and exploring new landscapes.
+# 💫 About Me
+
+🧑‍🏫 **I am a research support staff member and associate lecturer at the Facultat d'Informàtica de Barcelona**, where I teach Programming I, Entrepreneurship and Innovation, and Engineering Project.
+
+🧑‍💻 **I'm currently working on**  
+Large scale power system simulation and optimization, digital twins, and N2 contingency analysis using VeraGrid, HPC, and modern electrical networks.
+
+🤝 **I'm looking to collaborate on**  
+Research projects involving smart grids, distributed computing, mathematical optimization, and AI applications in electrical or computer engineering.
+
+🌱 **I'm currently learning**  
+Advanced stability analysis methods for power systems, parallel simulation strategies, generic JSON standards for electrical network modeling, and interactive web visualization.
+
+💬 **Ask me about**  
+Algorithms, programming, HPC, digital twins, contingency analysis, Python, optimization, and web-based data visualization. Also about my experience as a university assistant lecturer in computer engineering.
+
+⚡ **Fun fact**  
+I'm co-developing a distributed computing cluster that uses idle machines to run power system simulations in parallel. And I love road trips, camping, and exploring new landscapes.
 
 ## 📘 Manuals I've created
 [Multivac Documentation](https://iocnet.upc.edu/doc/multivac/)
