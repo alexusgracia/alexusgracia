@@ -15,7 +15,7 @@ Advanced stability analysis methods for power systems, parallel simulation strat
 Algorithms, programming, HPC, digital twins, contingency analysis, Python, optimization, and web-based data visualization. Also about my experience as a university assistant lecturer in computer engineering.
 
 ⚡ **Fun fact**  
-I'm co-developing a distributed computing cluster that uses idle machines to run power system simulations in parallel. And I love road trips, camping, and exploring new landscapes.
+I'm co-developing a distributed computing cluster that uses idle machines to run power system simulations in parallel. And I love road trips, camping, and exploring new landscapes. I'm finishing my Master in Computer Science and pursuing my PhD.
 
 ## 📘 Manuals I've created
 [Multivac Documentation](https://iocnet.upc.edu/doc/multivac/)
