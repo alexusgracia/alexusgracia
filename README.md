@@ -19,6 +19,7 @@ I'm co-developing a distributed computing cluster that uses idle machines to run
 
 ## 📘 Manuals I've created
 [Multivac Documentation](https://iocnet.upc.edu/doc/multivac/)
+
 [Minimal Markdown Documentation Template](https://github.com/alexusgracia/manuals)
 
 ## 🌐 Socials:
