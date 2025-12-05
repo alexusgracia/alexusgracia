@@ -6,6 +6,8 @@
 💬 Ask me about<br><br>Algorithms, programming, HPC, digital twins, contingency analysis, Python, optimization, and web-based data visualization. Also about my experience as a university assistant lecturer in computer engineering.<br><br>
 ⚡ Fun fact<br><br>I'm co-developing a distributed computing cluster that uses idle machines to run power system simulations in parallel. And I love road trips, camping, and exploring new landscapes.
 
+## 📘 Manuals I've created
+[Multivac Documentation](https://iocnet.upc.edu/doc/multivac/)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alexandre-gracia) 
