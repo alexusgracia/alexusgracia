@@ -32,5 +32,6 @@ I'm co-developing a distributed computing cluster that uses idle machines to run
 
 ---
 [![](https://visitcount.itsvg.in/api?id=alexusgracia&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=alexusgracia&style=flat&color=blue)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
