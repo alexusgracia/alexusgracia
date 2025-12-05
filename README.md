@@ -22,6 +22,10 @@ I'm co-developing a distributed computing cluster that uses idle machines to run
 
 [Minimal Markdown Documentation Template](https://github.com/alexusgracia/manuals)
 
+[Apunts PRO1](https://github.com/alexusgracia/apunts-pro1)
+
+[Apunts PE](https://github.com/alexusgracia/apunts-pe)
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alexandre-gracia) 
 
