@@ -26,7 +26,12 @@ I'm co-developing a distributed computing cluster that uses idle machines to run
 
 [Apunts PE](https://github.com/alexusgracia/apunts-pe)
 
-## 🌐 Socials:
+## 🌐 Websites I've created:
+[HP2CDT Website]([https://github.com/alexusgracia/apunts-pe](https://citcea.digital-twin.upc.edu/))
+[Oscillations Map](https://citcea.oscillations.upc.edu/)
+[OCEANOISE2023 WebAPP](https://app.oceanoise.com/)
+
+## 👥 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alexandre-gracia) 
 
 # 💻 Tech Stack:
