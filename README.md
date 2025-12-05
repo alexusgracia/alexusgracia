@@ -19,6 +19,7 @@ I'm co-developing a distributed computing cluster that uses idle machines to run
 
 ## 📘 Manuals I've created
 [Multivac Documentation](https://iocnet.upc.edu/doc/multivac/)
+[Minimal Markdown Documentation Template](https://github.com/alexusgracia/manuals)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alexandre-gracia) 
