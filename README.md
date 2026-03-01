@@ -3,7 +3,7 @@
 🧑‍🏫 **I am a research support staff member at CITCEA and associate lecturer at the Facultat d'Informàtica de Barcelona**, where I teach Programming I, Entrepreneurship and Innovation, and Engineering Project.
 
 🧑‍💻 **I'm currently working on**  
-Large scale power system simulation and optimization, digital twins, and N2 contingency analysis using VeraGrid, HPC, and modern electrical networks.
+Large scale power system simulation and optimization, digital twins, and N-2 contingency analysis using VeraGrid, HPC, and modern electrical networks.
 
 🤝 **I'm looking to collaborate on**  
 Research projects involving smart grids, distributed computing, mathematical optimization, and AI applications in electrical or computer engineering.
@@ -15,7 +15,7 @@ Advanced stability analysis methods for power systems, parallel simulation strat
 Algorithms, programming, HPC, digital twins, contingency analysis, Python, optimization, and web-based data visualization. Also about my experience as a university assistant lecturer in computer engineering.
 
 ⚡ **Fun fact**  
-I'm developing a distributed computing cluster that uses idle machines to run power system simulations in parallel. And I love road trips, camping, and exploring new landscapes. I'm finishing my Master in Computer Science and pursuing my PhD.
+I'm developing a distributed computing cluster that uses idle machines to run power system simulations in parallel. And I love road trips, camping, and exploring new landscapes. I'm pursuing my PhD in Computer Science and Electrical Engineering.
 
 ## 📘 Manuals I've created
 [Multivac Documentation](https://iocnet.upc.edu/doc/multivac/)
